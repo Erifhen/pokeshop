@@ -1,0 +1,354 @@
+{
+  "cartasAvulsas": [
+    {
+      "id": "ca-001",
+      "nome": "Charizard EX",
+      "preco": 200.0,
+      "descricao": "Carta poderosa muito utilizada no competitivo.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_606864-MLB71375893667_082023-F.webp",
+      "tier": "S",
+      "estoque": 5,
+      "avaliacaoMedia": 4.8,
+      "avaliacoes": [
+        {
+          "usuario": "Lucas",
+          "nota": 5,
+          "comentario": "Carta absurda, chegou em perfeito estado."
+        },
+        {
+          "usuario": "Marina",
+          "nota": 4,
+          "comentario": "Ótima carta, mas o preço poderia ser menor."
+        }
+      ]
+    },
+    {
+      "id": "ca-002",
+      "nome": "Gardevoir EX",
+      "preco": 25.9,
+      "descricao": "Muito consistente em decks de controle.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752905-MLB99943688219_112025-F-pokemon-mega-gardevoir-ex-060132-mega-evoluco.webp",
+      "tier": "B",
+      "estoque": 8,
+      "avaliacaoMedia": 4.6,
+      "avaliacoes": [
+        {
+          "usuario": "Roberto",
+          "nota": 5,
+          "comentario": "Peça chave para o meu deck psíquico."
+        }
+      ]
+    },
+    {
+      "id": "ca-004",
+      "nome": "Pikachu",
+      "preco": 19.9,
+      "descricao": "Carta promocional colecionável.",
+      "imagem": "https://m.media-amazon.com/images/I/61uN3pfHiML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "tier": "B",
+      "estoque": 12,
+      "avaliacaoMedia": 4.3,
+      "avaliacoes": [
+        {
+          "usuario": "Carla",
+          "nota": 4,
+          "comentario": "Linda para colecionar, mas fraca no jogo."
+        }
+      ]
+    },
+    {
+      "id": "ca-003",
+      "nome": "Mew VMAX",
+      "preco": 60.0,
+      "descricao": "Excelente para estratégias rápidas.",
+      "imagem": "https://tse3.mm.bing.net/th/id/OIP.d3ILp2MVXBqnq6JPVFWI1QHaKW?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "tier": "A",
+      "estoque": 3,
+      "avaliacaoMedia": 4.9,
+      "avaliacoes": [
+        {
+          "usuario": "Thiago",
+          "nota": 5,
+          "comentario": "Simplesmente a melhor arte dessa coleção."
+        }
+      ]
+    },
+    {
+      "id": "ca-005",
+      "nome": "Greninja",
+      "preco": 5.9,
+      "descricao": "Carta promocional colecionável.",
+      "imagem": "https://tse1.mm.bing.net/th/id/OIP.RDAEOl8DPzaJOY5qa2TqAAHaKV?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "tier": "C",
+      "estoque": 12,
+      "avaliacaoMedia": 4.3,
+      "avaliacoes": []
+    },
+    {
+      "id": "ca-006",
+      "nome": "Rayquaza Ex",
+      "preco": 120.0,
+      "descricao": "Ataque massivo com energia tipo dragão.",
+      "imagem": "https://tcgplayer-cdn.tcgplayer.com/product/98096_in_600x600.jpg",
+      "tier": "S",
+      "estoque": 2,
+      "avaliacaoMedia": 5.0,
+      "avaliacoes": [
+        {
+          "usuario": "Felipe",
+          "nota": 5,
+          "comentario": "Rara demais, sorte ter encontrado aqui!"
+        }
+      ]
+    },
+    {
+      "id": "ca-007",
+      "nome": "Lugia VSTAR",
+      "preco": 95.0,
+      "descricao": "Domine o meta atual com a habilidade de invocação.",
+      "imagem": "https://images.pokemoncard.io/images/swsh12/swsh12-139_hiresopt.jpg",
+      "tier": "S",
+      "estoque": 4,
+      "avaliacaoMedia": 4.7,
+      "avaliacoes": []
+    }
+  ],
+  "baralhos": [
+    {
+      "id": "ba-001",
+      "nome": "Baralho Charizard League",
+      "preco": 149.9,
+      "descricao": "Baralho competitivo pronto para jogar.",
+      "imagem": "https://metagaming.cl/cdn/shop/files/image_2024-09-07_011230163.png?v=1725685957",
+      "estoque": 4,
+      "avaliacaoMedia": 4.7,
+      "avaliacoes": [
+        {
+          "usuario": "Bruno",
+          "nota": 5,
+          "comentario": "Venci meu primeiro torneio local com ele."
+        }
+      ]
+    },
+    {
+      "id": "ba-002",
+      "nome": "Baralho Mew VMAX",
+      "preco": 139.9,
+      "descricao": "Deck focado em velocidade e combos.",
+      "imagem": "https://a-static.mlcdn.com.br/800x560/pokemon-baralho-batalha-de-liga-mew-vmax-com-60-cartas-copag/flshop/16013592222/ed347051a96a2611183651da1e8f6a39.jpeg",
+      "estoque": 6,
+      "avaliacaoMedia": 4.8,
+      "avaliacoes": []
+    },
+    {
+      "id": "ba-003",
+      "nome": "Baralho Iniciante Pikachu",
+      "preco": 79.9,
+      "descricao": "Ideal para quem está começando.",
+      "imagem": "https://rihappy.vtexassets.com/arquivos/ids/4681839/1002390791_1.jpg?v=637980339601570000",
+      "estoque": 10,
+      "avaliacaoMedia": 4.2,
+      "avaliacoes": [
+        {
+          "usuario": "Ana",
+          "nota": 4,
+          "comentario": "Ótimo para ensinar as crianças."
+        }
+      ]
+    },
+    {
+      "id": "ba-004",
+      "nome": "Baralho Gardevoir Control",
+      "preco": 129.9,
+      "descricao": "Estratégia focada em controle de jogo.",
+      "imagem": "https://mox.land/cdn/shop/products/BaralhoBatalhaV-GardevoirV_1024x1024.png?v=1684234854",
+      "estoque": 5,
+      "avaliacaoMedia": 4.6,
+      "avaliacoes": []
+    },
+    {
+      "id": "ba-005",
+      "nome": "Baralho de Batalha EX Houndoon",
+      "preco": 66.0,
+      "descricao": "Estratégia focada em controle de jogo.",
+      "imagem": "https://m.media-amazon.com/images/I/61kijn3hXGL._AC_SL1200_.jpg",
+      "estoque": 5,
+      "avaliacaoMedia": 4.6,
+      "avaliacoes": []
+    }
+  ],
+  "boosters": [
+    {
+      "id": "bo-001",
+      "nome": "Booster Scarlet & Violet",
+      "preco": 24.9,
+      "descricao": "Pacote com 10 cartas aleatórias.",
+      "imagem": "https://tse4.mm.bing.net/th/id/OIP.aap-OpzxtNSavHmjIvR22QHaNk?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "estoque": 50,
+      "avaliacaoMedia": 4.5,
+      "avaliacoes": []
+    },
+    {
+      "id": "bo-002",
+      "nome": "Booster Obsidian Flames",
+      "preco": 26.9,
+      "descricao": "Chance de cartas raras e secretas.",
+      "imagem": "https://m.media-amazon.com/images/I/71PAhRSjJVL._AC_SL1500_.jpg",
+      "estoque": 40,
+      "avaliacaoMedia": 4.6,
+      "avaliacoes": []
+    },
+    {
+      "id": "bo-003",
+      "nome": "Booster Paradox Rift",
+      "preco": 27.9,
+      "descricao": "Expansão focada em paradox Pokémon.",
+      "imagem": "https://ecollectibles.ca/cdn/shop/files/SEA-PAC-PKM-87399_745x1040ratio__66317_1024x1024.jpg?v=1705515579",
+      "estoque": 35,
+      "avaliacaoMedia": 4.7,
+      "avaliacoes": []
+    },
+    {
+      "id": "bo-004",
+      "nome": "Booster Paldea Evolved",
+      "preco": 25.9,
+      "descricao": "Novos Pokémon e treinadores.",
+      "imagem": "https://tse3.mm.bing.net/th/id/OIP.ORhqMv0OgajO0bRyd5bNHgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "estoque": 45,
+      "avaliacaoMedia": 4.4,
+      "avaliacoes": []
+    },
+    {
+      "id": "bo-005",
+      "nome": "Booster 151 Special Edition",
+      "preco": 35.0,
+      "descricao": "Reviva a primeira geração com artes incríveis.",
+      "imagem": "https://m.media-amazon.com/images/I/71xLNoYarcL._AC_SL1500_.jpg",
+      "estoque": 20,
+      "avaliacaoMedia": 4.9,
+      "avaliacoes": [
+        {
+          "usuario": "Daniel",
+          "nota": 5,
+          "comentario": "Nostalgia pura, as artes são impecáveis."
+        }
+      ]
+    }
+  ],
+  "latas": [
+    {
+      "id": "la-001",
+      "nome": "Lata Pokémon Charizard",
+      "preco": 119.9,
+      "descricao": "Lata colecionável com boosters.",
+      "imagem": "https://cdn.gameplanet.com/wp-content/uploads/2022/08/30145644/charizard_2-510x630.jpg",
+      "estoque": 7,
+      "avaliacaoMedia": 4.9,
+      "avaliacoes": [
+        {
+          "usuario": "Marcos",
+          "nota": 5,
+          "comentario": "A lata é linda para decorar a estante."
+        }
+      ]
+    },
+    {
+      "id": "la-002",
+      "nome": "Lata Pokémon Mewtwo",
+      "preco": 109.9,
+      "descricao": "Inclui boosters e carta promocional.",
+      "imagem": "https://a-static.mlcdn.com.br/800x560/lata-pokemon-parceria-poderosa-mewtwo-e-mew-gx-copag/playsetgames/8051592125/b0e4b5b323c50d47df4db57b50e6b295.jpg",
+      "estoque": 6,
+      "avaliacaoMedia": 4.8,
+      "avaliacoes": []
+    },
+    {
+      "id": "la-003",
+      "nome": "Lata Pokémon Typhlosion",
+      "preco": 229.9,
+      "descricao": "Inclui boosters e carta promocional.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_766044-MLA99969852175_112025-F.webp",
+      "estoque": 6,
+      "avaliacaoMedia": 4.8,
+      "avaliacoes": []
+    },
+    {
+      "id": "la-004",
+      "nome": "Lata Pokémon Eeveelutions",
+      "preco": 129.9,
+      "descricao": "Coleção especial das evoluções de Eevee.",
+      "imagem": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/61/latest/20220802050245/Lata_Evoluciones_de_Eevee-Flareon.png/900px-Lata_Evoluciones_de_Eevee-Flareon.png",
+      "estoque": 5,
+      "avaliacaoMedia": 4.9,
+      "avaliacoes": []
+    },
+    {
+      "id": "la-005",
+      "nome": "Lata Pokémon Starter",
+      "preco": 99.9,
+      "descricao": "Perfeita para novos jogadores.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_823521-MLA99502529232_112025-F.webp",
+      "estoque": 8,
+      "avaliacaoMedia": 4.5,
+      "avaliacoes": []
+    }
+  ],
+  "acessorios": [
+    {
+      "id": "ac-001",
+      "nome": "Sleeve Pokémon Oficial",
+      "preco": 29.9,
+      "descricao": "Proteção oficial para cartas.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736901-MLB54126606831_032023-O-sleeve-standard-oficial-ultra-pro-pokemon-tcg-eevee-65un.webp",
+      "estoque": 30,
+      "avaliacaoMedia": 4.6,
+      "avaliacoes": []
+    },
+    {
+      "id": "ac-002",
+      "nome": "Deck Box Pokémon",
+      "preco": 49.9,
+      "descricao": "Caixa resistente para baralho.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_661997-MLB97595997717_112025-F.webp",
+      "estoque": 20,
+      "avaliacaoMedia": 4.7,
+      "avaliacoes": [
+        {
+          "usuario": "Julia",
+          "nota": 5,
+          "comentario": "Cabe o deck com double sleeve perfeitamente."
+        }
+      ]
+    },
+    {
+      "id": "ac-003",
+      "nome": "Playmat Pokémon",
+      "preco": 89.9,
+      "descricao": "Tapete oficial para partidas.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_968509-MLB92718715881_092025-F.webp",
+      "estoque": 12,
+      "avaliacaoMedia": 4.8,
+      "avaliacoes": []
+    },
+    {
+      "id": "ac-004",
+      "nome": "Pasta Porta-Cartas",
+      "preco": 59.9,
+      "descricao": "Ideal para colecionadores.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_800908-MLB95955223511_102025-F.webp",
+      "estoque": 15,
+      "avaliacaoMedia": 4.5,
+      "avaliacoes": []
+    },
+    {
+      "id": "ac-005",
+      "nome": "Dados de Dano",
+      "preco": 39.9,
+      "descricao": "Conjunto de dados translúcidos para marcar dano.",
+      "imagem": "https://m.media-amazon.com/images/I/61pRwUhXjDL._AC_SL1000_.jpg",
+      "estoque": 25,
+      "avaliacaoMedia": 4.9,
+      "avaliacoes": []
+    }
+  ]
+}
